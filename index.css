@@ -1,6 +1,72 @@
 
-.red {
-    color: brown;
-    background-color: aqua;
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+
 }
+
+
+footer {
+    background-color: cornflowerblue;
+    padding: 20px 10px;
+    text-align:center;
+    border-top-right-radius: 10px;
+}
+
+
+
+ li {
+    list-style: none;
+}
+
+
+img {
+    max-width: 80%;
+  width: 550px;
+  display: block;
+  margin: auto;
+
+}
+
+
+
+header {
+    text-align: center;
+    padding-top: 16px;
+    color: gray;
+
+
+}
+
+nav {
+    background-color: grey;
+    color: wheat;
+    padding: 20px;
+    text-align: center;
+    border-top-right-radius: 10px;
+}
+
+section {
+    padding: 2rem;
+    margin: 2rem 0;
+    border-radius: 1rem;
+    text-align: center;
+  }
+  
+  section h1 {
+    text-align: center;
+  }
+  
+
+  nav li {
+    display: inline;
+    padding: 0rem 0.5rem;
+  }
+
+
+  nav a {
+    text-decoration: none;
+    color: inherit;
+  }
 
